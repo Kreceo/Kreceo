@@ -7,7 +7,7 @@
 <li>🧐 Learning about anything that challenges me, which currently is <strong>React</strong</li>
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/Kreceo">Github</a>.</li>
 <li>💬 Ping me about <strong>PHP, Javascript, Wordpress</strong>.</li>
-<li>🎉 Fun Fact: I've been learning Japanese, I can Bench press 125kg & compete in spartan races</li>
+<li>🎉 Fun Fact: I've been learning Japanese, I can Bench press 125kg & I compete in various obstacle races</li>
 </ul>
 
 <h2>🚀 Some Tools I Use</h2>
