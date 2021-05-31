@@ -1,6 +1,5 @@
 <h2>Hey 👋, I'm Darrell</a></h2>
 <p>I'm currently a Full time Web Developer and part time student in Computer Science at the London University.</p>
-<a href="https://www.linkedin.com/in/dlfitness/"><img src="https://img.shields.io/badge/-@serbis-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/serbis/" alt="LinkedIn Badge"></a>
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
