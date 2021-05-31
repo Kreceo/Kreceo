@@ -1,4 +1,4 @@
-<h2>Hey 👋, I'm Darrell</a></h2>
+<h2>Sup 👋, I'm Darrell</a></h2>
 <p>I'm currently a Full time Web Developer and part time student in Computer Science at the London University.</p>
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 <h2>⚡️ A Few Quick Facts</h2>
