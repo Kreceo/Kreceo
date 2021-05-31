@@ -1,6 +1,9 @@
 <h2>Sup 👋, I'm Darrell</h2>
 <p>I'm currently a Full-time Web Developer and Part-time Computer Science student at the University of London.</p>
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+<a href="https://www.linkedin.com/in/kreceo/" target="blank"><img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="Linkedin" width="30px" /></a>
+<a href="https://www.facebook.com/darrell.g.lane/" target="blank"><img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" alt="Facebook" width="30px" /></a><br><br>
+<a><img src="https://komarev.com/ghpvc/?username=kreceo&label=Profile%20views&color=red&style=flat" alt="Krece - Profile Views" /></a>
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
   <li>🔭 I’m currently working on a google clone called <strong>'Froogle'</strong></a>.</li>
@@ -10,7 +13,7 @@
   <li>🎉 Fun Fact: I've been learning Japanese, I can Bench press 125kg & I compete in various obstacle races</li>
 </ul>
 
-<h2>🚀 Some Tools I Use</h2>
+<h2>🚀 Some Tools & Languages I Use</h2>
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40" />
